@@ -53,8 +53,6 @@ void main()
 	//Print(arr, n);
 	//shiftRight(arr, n, number_of_shifts);
 	//Print(arr, n);
-	const int SIZE = 8;
-	double d_arr[SIZE];
 	
 
 }
